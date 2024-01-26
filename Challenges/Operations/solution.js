@@ -1,6 +1,9 @@
 const prompt = require("prompt-sync")();
 const readline = require("readline-sync");
 
+
+// initial commit
+
 function operations() {
   const num1 = parseInt(prompt("Enter a number "));
   const num2 = parseInt(prompt("Enter another number: "));
