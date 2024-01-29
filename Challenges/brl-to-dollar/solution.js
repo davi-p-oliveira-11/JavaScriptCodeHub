@@ -1,6 +1,7 @@
 const prompt = require('prompt-sync')();
 const readline = require('readline-sync');
 
+// Initial commit
 // update this to be dinamic like in the C program
 
 function brlToDollar () {
