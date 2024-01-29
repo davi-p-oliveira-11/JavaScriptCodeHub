@@ -4,7 +4,9 @@ Welcome to my JavaScript Learning Repository! Here, you'll find a curated collec
 
 Whether you're a beginner seeking to strengthen your programming fundamentals or an experienced developer looking to tackle more advanced concepts, this repository offers a diverse range of challenges tailored to your skill level and learning objectives.
 
-## Simple Sequences
+# Beginner level Exercises
+
+## Basic User Interaction
 
 [Hello World](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/tree/main/Challenges/HelloWorld)<br>
 [Hello User](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/tree/main/Challenges/HelloUser)<br>
