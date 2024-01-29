@@ -1,6 +1,8 @@
 const prompt = require("prompt-sync")();
 const readline = require("readline-sync");
 
+// Initial Commit
+
 function deltaCalc() {
   const valueA = parseInt(prompt("Enter the value of A "));
   const valueB = parseInt(prompt("Enter the value of B "));
