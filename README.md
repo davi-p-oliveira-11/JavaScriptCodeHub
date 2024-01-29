@@ -33,7 +33,9 @@ Exercises in the "Basic User Interaction" category are ideal for absolute beginn
 
 In coding challenge repositories targeting beginners, exercises in this category serve as foundational stepping stones for learners to grasp the fundamentals of user interaction before delving into more advanced topics such as conditional statements and input validation.
 
+### Example 1:
 
+![Basic Sequence:](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/blob/main/Images/basic%20sequences.png)<br>
 
 [Hello World](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/tree/main/Challenges/HelloWorld)<br>
 [Hello User](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/tree/main/Challenges/HelloUser)<br>
