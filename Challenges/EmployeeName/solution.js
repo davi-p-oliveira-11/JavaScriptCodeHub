@@ -1,6 +1,8 @@
 const prompt = require("prompt-sync")();
 const readline = require("readline-sync");
 
+// Initial commit
+
 function employeeName() {
   const employeeName = prompt("What is the employee name ? ");
   const currentMonth = prompt("What is the current month? ");
