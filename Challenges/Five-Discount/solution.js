@@ -9,9 +9,10 @@ function fiveDiscount() {
   const discount = productPrice * 0.05;
   const finalPrice = productPrice - discount;
 
-  console.log(`O preço do produto é: ${productPrice}, 
-  e o preço promocional do produto é ${finalPrice}`);
+  console.log(`The original price of the product is: ${productPrice}, 
+and the price with discount is: ${finalPrice}`);
 }
 
 fiveDiscount();
 readline.question("Press Enter to Exit ...");
+
