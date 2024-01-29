@@ -1,18 +1,16 @@
 const prompt = require("prompt-sync")();
 const readline = require("readline-sync");
 
-// Initial Commit
+function brlToDollar() {
+  const availableBRL = parseFloat(prompt("Enter a value in BRL: "));
+  const usdValue = parseFloat(prompt("What is today's dollar exchange rate ?"));
+  const dollars = availableBRL / usdValue;
 
-function deltaCalc() {
-  const valueA = parseInt(prompt("Enter the value of A "));
-  const valueB = parseInt(prompt("Enter the value of B "));
-  const valueC = parseInt(prompt("Enter the value of C "));
+  // toFixed(2) to work better with financial values
 
-  /* Bhaskara's formula:  delta = b² - 4ac */
-  const deltaValue = valueB ** 2 - 4 * (valueA * valueC);
-
-  console.log(`The value of delta is equal to: ${deltaValue}`);
+  console.log(`You can buy a total of ${dollars.toFixed(2)}USD`);
 }
 
-deltaCalc();
-readline.question('Press Enter to Exit ...');
+brlToDollar();
+readline.question("Press Enter to Exit ...");
+
