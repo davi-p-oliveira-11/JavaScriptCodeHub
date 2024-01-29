@@ -35,6 +35,13 @@ In coding challenge repositories targeting beginners, exercises in this category
 
 ### Example 1:
 
+Problem :
+Develop an algorithm that reads two integers and displays their sum.<br>
+Example:<br>
+Enter a value: 8 <br>
+Enter another value: 5 <br>
+The sum of 8 and 5 is equal to 13. <br>
+
 ![Basic Sequence:](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/blob/main/Images/basic%20sequences.png)<br>
 
 [Hello World](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/tree/main/Challenges/HelloWorld)<br>
