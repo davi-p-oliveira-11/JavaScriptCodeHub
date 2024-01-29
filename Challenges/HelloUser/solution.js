@@ -1,6 +1,8 @@
 const prompt = require('prompt-sync')();
 const readline = require('readline-sync');
 
+// Initial Commit
+
 function helloUser () {
   const userName = prompt('What is your name ? ' );
 
