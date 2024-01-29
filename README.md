@@ -55,4 +55,15 @@ List of solved exercises:
 
 ## Basic Decision Making
 
+### Example 1: 
+
+Problem : "## Can you vote ?
+
+Create a program that reads a person's year of birth,<br>
+calculates their age, and then shows whether they can or <br>cannot vote.
+
+![Basic Decision Making:](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/blob/main/Images/code-snapshot.png)<br>
+
+List of solved exercises:
+
 [Can you vote ?](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/tree/main/Challenges/Can-you-vote)<br>
