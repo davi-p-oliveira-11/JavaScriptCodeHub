@@ -8,3 +8,7 @@
 [Sum of Two](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/tree/main/Challenges/SumofTwo)<br>
 [Operations](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/tree/main/Challenges/Operations)<br>
 [Average of Two](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/tree/main/Challenges/Average-of-Two)<br>
+
+## Simple Conditionals
+
+[Can you vote ?](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/tree/main/Challenges/Can-you-vote)<br>
