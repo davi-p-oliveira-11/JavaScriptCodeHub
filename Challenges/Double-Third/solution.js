@@ -13,4 +13,4 @@ function doubleThird () {
 }
 
 doubleThird();
-readline.question();
+readline.question("Press Enter to Exit ... ");
