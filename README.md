@@ -52,6 +52,7 @@ List of solved exercises:
 [Sum of Two](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/tree/main/Challenges/SumofTwo)<br>
 [Operations](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/tree/main/Challenges/Operations)<br>
 [Average of Two](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/tree/main/Challenges/Average-of-Two)<br>
+[Average of Two](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/tree/main/Challenges/Average-of-Two)<br>
 
 ## Basic Decision Making
 
