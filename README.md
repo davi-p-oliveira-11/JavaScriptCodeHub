@@ -65,6 +65,9 @@ List of solved exercises:
 [Average of Two](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/tree/main/Challenges/Average-of-Two)<br>
 [Average of Two](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/tree/main/Challenges/Average-of-Two)<br>
 
+### line
+[Tip Calculator](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/tree/main/Challenges/Tip-Calculator)<br>
+
 ## Basic Decision Making
 
 ### Example 1: 
