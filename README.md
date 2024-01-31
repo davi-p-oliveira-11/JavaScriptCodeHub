@@ -55,7 +55,7 @@ List of solved exercises:
 [Predecessor and Successor](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/tree/main/Challenges/Predecessor-Succesor)<br>
 [Double and Third Part](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/tree/main/Challenges/Double-Third)<br>
 [Measure Converter](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/tree/main/Challenges/Measure-Converter)<br>
-[Average of Two](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/tree/main/Challenges/brl-to-dollar)<br>
+[BRL to USD Converter](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/tree/main/Challenges/brl-to-dollar)<br>
 [Average of Two](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/tree/main/Challenges/Average-of-Two)<br>
 [Average of Two](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/tree/main/Challenges/Average-of-Two)<br>
 [Average of Two](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/tree/main/Challenges/Average-of-Two)<br>
