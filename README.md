@@ -46,6 +46,8 @@ The sum of 8 and 5 is equal to 13. <br>
 
 List of solved exercises:
 
+List One:
+
 [Hello World](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/tree/main/Challenges/HelloWorld)<br>
 [Hello User](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/tree/main/Challenges/HelloUser)<br>
 [Employee Name and Salary](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/tree/main/Challenges/EmployeeName)<br>
