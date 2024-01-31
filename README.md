@@ -70,6 +70,7 @@ List One:
 List Two
 [Tip Calculator](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/tree/main/Challenges/Tip-Calculator)<br>
 [Tip Calculator](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/tree/main/Challenges/Tip-Calculator)<br>
+[Tip Calculator](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/tree/main/Challenges/Tip-Calculator)<br>
 
 ## Basic Decision Making
 
