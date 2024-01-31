@@ -62,7 +62,7 @@ List of solved exercises:
 [15% Salary Raise ](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/tree/main/Challenges/15-Salary-Raise)<br>
 [Average of Two](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/tree/main/Challenges/Average-of-Two)<br>
 [Know Your Salary](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/tree/main/Challenges/Know-Your-Salary)<br>
-[Just Quit Smoking !](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/tree/main/Challenges/Average-of-Two)<br>
+[Just Quit Smoking !](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/tree/main/Challenges/Quit-Smoking)<br>
 [Average of Two](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/tree/main/Challenges/Average-of-Two)<br>
 
 ### line
