@@ -61,7 +61,7 @@ List of solved exercises:
 [Five Discount Calc](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/tree/main/Challenges/Five-Discount)<br>
 [15% Salary Raise ](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/tree/main/Challenges/15-Salary-Raise)<br>
 [Average of Two](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/tree/main/Challenges/Average-of-Two)<br>
-[Know Your Salary](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/tree/main/Challenges/Average-of-Two)<br>
+[Know Your Salary](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/tree/main/Challenges/Know-Your-Salary)<br>
 [Average of Two](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/tree/main/Challenges/Average-of-Two)<br>
 [Average of Two](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/tree/main/Challenges/Average-of-Two)<br>
 
