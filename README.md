@@ -57,7 +57,7 @@ List of solved exercises:
 [Measure Converter](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/tree/main/Challenges/Measure-Converter)<br>
 [BRL to USD Converter](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/tree/main/Challenges/brl-to-dollar)<br>
 [Rectangle Area Calculator ](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/tree/main/Challenges/Rectangle-Calc)<br>
-[Average of Two](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/tree/main/Challenges/Average-of-Two)<br>
+[Delta Calculator](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/tree/main/Challenges/DeltaCalculator)<br>
 [Average of Two](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/tree/main/Challenges/Average-of-Two)<br>
 [Average of Two](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/tree/main/Challenges/Average-of-Two)<br>
 [Average of Two](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/tree/main/Challenges/Average-of-Two)<br>
