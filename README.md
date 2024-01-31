@@ -67,7 +67,8 @@ List One:
 [Just Quit Smoking !](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/tree/main/Challenges/Quit-Smoking)<br>
 [Average of Two](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/tree/main/Challenges/Average-of-Two)<br>
 
-### line
+List Two
+[Tip Calculator](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/tree/main/Challenges/Tip-Calculator)<br>
 [Tip Calculator](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/tree/main/Challenges/Tip-Calculator)<br>
 
 ## Basic Decision Making
