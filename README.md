@@ -59,7 +59,7 @@ List of solved exercises:
 [Rectangle Area Calculator ](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/tree/main/Challenges/Rectangle-Calc)<br>
 [Delta Calculator](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/tree/main/Challenges/DeltaCalculator)<br>
 [Five Discount Calc](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/tree/main/Challenges/Five-Discount)<br>
-[Average of Two](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/tree/main/Challenges/Average-of-Two)<br>
+[15% Salary Raise ](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/tree/main/Challenges/Average-of-Two)<br>
 [Average of Two](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/tree/main/Challenges/Average-of-Two)<br>
 [Average of Two](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/tree/main/Challenges/Average-of-Two)<br>
 [Average of Two](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/tree/main/Challenges/Average-of-Two)<br>
