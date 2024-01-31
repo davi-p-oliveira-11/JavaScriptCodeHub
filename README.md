@@ -87,3 +87,4 @@ calculates their age, and then shows whether they can or <br>cannot vote.
 List of solved exercises:
 
 [Can you vote ?](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/tree/main/Challenges/Can-you-vote)<br>
+[Can you vote ?](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/tree/main/Challenges/Can-you-vote)<br>
