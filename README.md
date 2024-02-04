@@ -54,7 +54,7 @@ List One:
 [Sum of Two](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/tree/main/Challenges/SumofTwo/problem.md)<br>
 [Operations](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/tree/main/Challenges/Operations/problem.md)<br>
 [Average of Two](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/tree/main/Challenges/Average-of-Two/problem.md)<br>
-[Predecessor and Successor](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/tree/main/Challenges/Predecessor-Succesor)<br>
+[Predecessor and Successor](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/tree/main/Challenges/Predecessor-Succesor/problem.md)<br>
 [Double and Third Part](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/tree/main/Challenges/Double-Third)<br>
 [Measure Converter](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/tree/main/Challenges/Measure-Converter)<br>
 [BRL to USD Converter](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/tree/main/Challenges/brl-to-dollar)<br>
