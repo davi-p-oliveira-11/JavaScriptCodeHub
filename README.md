@@ -44,6 +44,22 @@ The sum of 8 and 5 is equal to 13. <br>
 
 ![Basic Sequence:](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/blob/main/Images/basic%20sequences.png)<br>
 
+### Example 2:
+
+Tip Calculator
+Create a simple tip calculator. The program should prompt
+for a bill amount and a tip rate. The program must compute
+the tip and then display both the tip and the total amount of
+the bill.
+
+Example:
+What is the bill? $200
+What is the tip percentage? 15
+The tip is $30.00
+The total is $230.00
+
+![Basic Sequence 2:]((https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/blob/main/Images/basic-snapshot.png))<br>
+
 List of solved exercises:
 
 List One: Gustavo Guanabara
