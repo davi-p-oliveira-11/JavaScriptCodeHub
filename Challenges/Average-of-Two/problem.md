@@ -10,5 +10,5 @@ The average between 4.5 and 8.5 is equal to 6.5.
 
 Code Output:
 
-![Output](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/blob/main/Challenges/HelloWorld/screenshot.png)
+![Output](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/blob/main/Challenges/Average-of-Two/screenshot.png)
 
