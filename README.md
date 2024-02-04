@@ -58,7 +58,7 @@ What is the tip percentage? 15
 The tip is $30.00
 The total is $230.00
 
-![Basic Sequence 2:]((https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/blob/main/Images/basic-snapshot.png))<br>
+![Basic Sequence 2:](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/blob/main/Images/basic-snapshot.png)<br>
 
 List of solved exercises:
 
