@@ -6,4 +6,4 @@ Develop an algorithm that reads two integer numbers and shows<br>the sum, subtra
 
 Code Output:
 
-![Output](https://github.com/davi-p-oliveira-11/CCodeChallengeLab/blob/main/Challenges/HelloWorld/screenshot.JPG)
+![Output](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/blob/main/Challenges/Operations/screenshot.png)
