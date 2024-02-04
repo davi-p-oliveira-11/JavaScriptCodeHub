@@ -11,4 +11,4 @@ Employee Jane Doe has a salary of R$1850.45 in June.
 
 Code Output:
 
-![Output](https://github.com/davi-p-oliveira-11/CCodeChallengeLab/blob/main/Challenges/HelloWorld/screenshot.JPG)
+![Output](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/blob/main/Challenges/EmployeeName/screenshot.png)
