@@ -68,7 +68,7 @@ List One:
 [Average of Two](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/tree/main/Challenges/Average-of-Two/problem.md)<br>
 
 List Two
-[Tip Calculator](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/tree/main/Challenges/Tip-Calculator)<br>
+[Tip Calculator](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/tree/main/Challenges/Tip-Calculator/problem.md)<br>
 [Tip Calculator](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/tree/main/Challenges/Tip-Calculator)<br>
 [Tip Calculator](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/tree/main/Challenges/Tip-Calculator)<br>
 [Tip Calculator](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/tree/main/Challenges/Tip-Calculator)<br>
