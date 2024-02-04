@@ -67,7 +67,7 @@ List One: Gustavo Guanabara
 [Just Quit Smoking !](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/tree/main/Challenges/Quit-Smoking/problem.md)<br>
 [Average of Two](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/tree/main/Challenges/Average-of-Two/problem.md)<br>
 
-List Two :   <br>
+List Two : Exercises for Programmers 57 Challenges to Develop Your Coding Skills (Book)  <br>
 [Tip Calculator](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/tree/main/Challenges/Tip-Calculator/problem.md)<br>
 [Tip Calculator](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/tree/main/Challenges/Tip-Calculator)<br>
 [Tip Calculator](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/tree/main/Challenges/Tip-Calculator)<br>
