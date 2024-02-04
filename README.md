@@ -62,7 +62,7 @@ List One:
 [Delta Calculator](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/tree/main/Challenges/DeltaCalculator/problem.md)<br>
 [Five Discount Calc](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/tree/main/Challenges/Five-Discount/problem.md)<br>
 [15% Salary Raise ](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/tree/main/Challenges/15-Salary-Raise/problem.md)<br>
-[Average of Two](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/tree/main/Challenges/Average-of-Two)<br>
+[Average of Two](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/tree/main/Challenges/Average-of-Two/problem.md)<br>
 [Know Your Salary](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/tree/main/Challenges/Know-Your-Salary)<br>
 [Just Quit Smoking !](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/tree/main/Challenges/Quit-Smoking)<br>
 [Average of Two](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/tree/main/Challenges/Average-of-Two)<br>
