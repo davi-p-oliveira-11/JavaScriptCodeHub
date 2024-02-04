@@ -59,7 +59,7 @@ List One:
 [Measure Converter](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/tree/main/Challenges/Measure-Converter/problem.md)<br>
 [BRL to USD Converter](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/tree/main/Challenges/brl-to-dollar/problem.md)<br>
 [Rectangle Area Calculator ](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/tree/main/Challenges/Rectangle-Calc)<br>
-[Delta Calculator](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/tree/main/Challenges/DeltaCalculator)<br>
+[Delta Calculator](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/tree/main/Challenges/DeltaCalculator/problem.md)<br>
 [Five Discount Calc](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/tree/main/Challenges/Five-Discount)<br>
 [15% Salary Raise ](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/tree/main/Challenges/15-Salary-Raise)<br>
 [Average of Two](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/tree/main/Challenges/Average-of-Two)<br>
