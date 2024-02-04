@@ -9,4 +9,4 @@ Create a program that reads a person's name and displays a welcome message to th
 
 Code Output:
 
-![Output](https://github.com/davi-p-oliveira-11/CCodeChallengeLab/blob/main/Challenges/HelloWorld/screenshot.JPG)
+![Output](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/blob/main/Challenges/HelloUser/screenhot.png)
