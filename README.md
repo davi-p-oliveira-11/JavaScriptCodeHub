@@ -53,7 +53,7 @@ List One:
 [Employee Name and Salary](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/tree/main/Challenges/EmployeeName/problem.md)<br>
 [Sum of Two](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/tree/main/Challenges/SumofTwo/problem.md)<br>
 [Operations](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/tree/main/Challenges/Operations/problem.md)<br>
-[Average of Two](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/tree/main/Challenges/Average-of-Two)<br>
+[Average of Two](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/tree/main/Challenges/Average-of-Two/problem.md)<br>
 [Predecessor and Successor](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/tree/main/Challenges/Predecessor-Succesor)<br>
 [Double and Third Part](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/tree/main/Challenges/Double-Third)<br>
 [Measure Converter](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/tree/main/Challenges/Measure-Converter)<br>
