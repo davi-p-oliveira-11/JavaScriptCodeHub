@@ -47,16 +47,16 @@ The sum of 8 and 5 is equal to 13. <br>
 ### Example 2:
 
 Tip Calculator
-Create a simple tip calculator. The program should prompt
-for a bill amount and a tip rate. The program must compute
-the tip and then display both the tip and the total amount of
-the bill.
+Create a simple tip calculator. The program should prompt <br>
+for a bill amount and a tip rate. The program must compute <br>
+the tip and then display both the tip and the total amount of <br>
+the bill. <br>
 
-Example:
-What is the bill? $200
-What is the tip percentage? 15
-The tip is $30.00
-The total is $230.00
+Example: <br>
+What is the bill? $200 <br>
+What is the tip percentage? 15 <br>
+The tip is $30.00 <br>
+The total is $230.00 <br>
 
 ![Basic Sequence 2:](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/blob/main/Images/basic-snapshot.png)<br>
 
