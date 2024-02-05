@@ -6,3 +6,5 @@ status in relation to military enlistment.
 enlistment.
 - If he is already over 18 years old, show how many years have passed since
 enlistment.
+
+[Click here to view the solution](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/blob/main/Challenges/EnlistmentCheck/solution.js)
