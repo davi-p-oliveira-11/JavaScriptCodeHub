@@ -106,6 +106,6 @@ List One: Gustavo Guanabara
 [Even Or Odd](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/blob/main/Challenges/EvenOrOdd/problem.md) <br>
 [Leap or Not](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/blob/main/Challenges/LeapOrNot/problem.md) <br>
 [Special Women Day Disocunt]() <br>
-[Ticket Calculator]() <br>
-[Triangle Check]() <br>
+[Ticket Calculator](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/blob/main/Challenges/TicketCalculator/problem.md) <br>
+[Triangle Checker]() <br>
 
