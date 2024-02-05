@@ -102,7 +102,7 @@ List One: Gustavo Guanabara
 
 [Speed Monitor]() <br>
 [Can you vote ?](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/tree/main/Challenges/Can-you-vote/problem.md)<br>
-[Speed Monitor]() <br>
+[Grade Analysis]() <br>
 [Speed Monitor]() <br>
 [Speed Monitor]() <br>
 [Speed Monitor]() <br>
