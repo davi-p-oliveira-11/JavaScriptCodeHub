@@ -109,3 +109,6 @@ List One: Gustavo Guanabara
 [Ticket Calculator](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/blob/main/Challenges/TicketCalculator/problem.md) <br>
 [Triangle Checker]() <br>
 
+## More Complex Desicion Making
+
+[Enlistment Check]()
