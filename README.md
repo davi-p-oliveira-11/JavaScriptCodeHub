@@ -104,9 +104,8 @@ List One: Gustavo Guanabara
 [Can you vote ?](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/tree/main/Challenges/Can-you-vote/problem.md)<br>
 [Grade Analysis]() <br>
 [Even Or Odd]() <br>
-[Leap Or Not]() <br>
-[Speed Monitor]() <br>
-[Speed Monitor]() <br>
-[Speed Monitor]() <br>
-[Speed Monitor]() <br>
+[Leap or Not]() <br>
+[Special Women Day Disocunt]() <br>
+[Ticket Calculator]() <br>
+[Triangle Check]() <br>
 
