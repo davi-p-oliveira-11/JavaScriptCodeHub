@@ -103,7 +103,7 @@ List One: Gustavo Guanabara
 [Speed Monitor](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/blob/main/Challenges/Speed-Monitor/problem.md) <br>
 [Can you vote ?](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/tree/main/Challenges/Can-you-vote/problem.md)<br>
 [Grade Analysis](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/blob/main/Challenges/GradeAnalysis/problem.md) <br>
-[Even Or Odd]() <br>
+[Even Or Odd](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/blob/main/Challenges/EvenOrOdd/problem.md) <br>
 [Leap or Not]() <br>
 [Special Women Day Disocunt]() <br>
 [Ticket Calculator]() <br>
