@@ -111,4 +111,5 @@ List One: Gustavo Guanabara
 
 ## More Complex Desicion Making
 
-[Enlistment Check]()
+[Enlistment Check](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/blob/main/Challenges/EnlistmentCheck/problem.md)<br>
+[Dummy Link]()
