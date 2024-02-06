@@ -108,6 +108,7 @@ List One: Gustavo Guanabara
 [Special Women Day Disocunt]() <br>
 [Ticket Calculator](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/blob/main/Challenges/TicketCalculator/problem.md) <br>
 [Triangle Checker]() <br>
+[Loan Approval System](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/blob/main/Challenges/LoanApprovalSystem/problem.md)<br>
 
 ## More Complex Desicion Making
 
