@@ -116,3 +116,5 @@ List One: Gustavo Guanabara
 [Dummy Link]()<br>
 [Number Comparison](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/blob/main/Challenges/Number%20Comparison/problem.md)<br>
 [Grade Status](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/blob/main/Challenges/GradeStatus/problem.md)<br>
+[Classify Terrain](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/blob/main/Challenges/ClassifyTerrain/problem.md)<br>
+
