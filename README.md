@@ -105,7 +105,7 @@ List One: Gustavo Guanabara
 [Grade Analysis](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/blob/main/Challenges/GradeAnalysis/problem.md) <br>
 [Even Or Odd](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/blob/main/Challenges/EvenOrOdd/problem.md) <br>
 [Leap or Not](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/blob/main/Challenges/LeapOrNot/problem.md) <br>
-[Special Women Day Disocunt]() <br>
+[Special Women Day Disocount]() <br>
 [Ticket Calculator](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/blob/main/Challenges/TicketCalculator/problem.md) <br>
 [Triangle Checker]() <br>
 [Loan Approval System](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/blob/main/Challenges/LoanApprovalSystem/problem.md)<br>
