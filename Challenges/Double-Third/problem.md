@@ -10,4 +10,4 @@ One-third of 3.5 is 1.16666 <br>
 
 Code Output:
 
-![Output](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/blob/main/Challenges/Predecessor-Succesor/screenshot.png)
+![Output](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/blob/main/Challenges/Double-Third/screenshot.png)
