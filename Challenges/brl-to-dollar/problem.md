@@ -7,4 +7,4 @@
 
 Code Output:
 
-![Output](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/blob/main/Challenges/brl-to=dollar/screenshot.png)
+![Output](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/blob/main/Challenges/brl-to-dollar/screenshot.png)
