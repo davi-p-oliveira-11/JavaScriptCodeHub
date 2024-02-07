@@ -16,4 +16,4 @@ The distance of 185.72m corresponds to: <br>
 
 Code Output:
 
-![Output](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/blob/main/Challenges/Predecessor-Succesor/screenshot.png)
+![Output](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/blob/main/Challenges/Measure-Converter/screenshot.png)
