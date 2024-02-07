@@ -10,4 +10,4 @@
 
 Code Output:
 
-![Output](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/blob/main/Challenges/Average-of-Two/screenshot.png)
+![Output](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/blob/main/Challenges/Predecessor-Succesor/screenshot.png)
