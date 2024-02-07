@@ -5,8 +5,8 @@ Ask for the number of cigarettes smoked per day and how many years they have bee
 Consider that a smoker loses 10 minutes of life for each cigarette.<br> Calculate
 how many days of life a smoker will lose and display the total in days.
 
-[Click Here to view the solution](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/blob/main/Challenges/Predecessor-Succesor/solution.js)
+[Click Here to view the solution](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/blob/main/Challenges/Quit-Smoking/solution.js)
 
 Code Output:
 
-![Output](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/blob/main/Challenges/Predecessor-Succesor/screenshot.png)
+![Output](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/blob/main/Challenges/Quit-Smoking/screenshot.png)
