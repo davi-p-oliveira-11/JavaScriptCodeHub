@@ -1,4 +1,4 @@
-# JavaScriptCodeHub a
+# JavaScriptCodeHub 
 
 Welcome to my JavaScript Learning Repository! Here, you'll find a curated collection of coding exercises and challenges designed to enhance your JavaScript skills and problem-solving abilities.
 
