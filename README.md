@@ -118,4 +118,8 @@ List One: Gustavo Guanabara
 [Classify Terrain](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/blob/main/Challenges/ClassifyTerrain/problem.md)<br>
 [Salary Adjustment](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/blob/main/Challenges/SalaryAdjustmentSystem/problem.md)<br>
 
+## while Loops
+
+[Dummy Link]()<br>
+
 
