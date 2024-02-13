@@ -154,4 +154,22 @@ List One: Gustavo Guanabara
 [Dummy Link]()<br>
 [Dummy Link]()<br>
 
+## Arrays
+
+[Dummy Link]()<br>
+[Dummy Link]()<br>
+[Dummy Link]()<br>
+[Dummy Link]()<br>
+[Dummy Link]()<br>
+[Dummy Link]()<br>
+
+# Data Structures and algorithms
+
+[Dummy Link]()<br>
+[Dummy Link]()<br>
+[Dummy Link]()<br>
+[Dummy Link]()<br>
+[Dummy Link]()<br>
+[Dummy Link]()<br>
+
 
