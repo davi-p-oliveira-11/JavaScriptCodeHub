@@ -123,7 +123,7 @@ List One: Gustavo Guanabara
 [Count 3 to 10](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/blob/main/Challenges/Count-10-to-3/problem.md)<br>
 [count 6 to 11](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/blob/main/Challenges/Count-6-to-11/problem.md)<br>
 [Count Display 3](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/blob/main/Challenges/Count-Display-3/problem.md)<br>
-[Dummy Link]()<br>
+[Count Display 4](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/blob/main/Challenges/Count-Display-4/problem.md)<br>
 [Dummy Link]()<br>
 [Dummy Link]()<br>
 
