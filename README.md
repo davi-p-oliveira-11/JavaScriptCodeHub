@@ -120,7 +120,7 @@ List One: Gustavo Guanabara
 
 ## while Loops
 
-[Dummy Link]()<br>
+[Count 3 to 10](https://github.com/davi-p-oliveira-11/JavaScriptCodeHub/blob/main/Challenges/Count-10-to-3/problem.md)<br>
 [Dummy Link]()<br>
 [Dummy Link]()<br>
 [Dummy Link]()<br>
